@@ -1,7 +1,9 @@
-# 虚拟定位 Android 发布页
+# 虚拟定位 Android 发布仓库
 
-本仓库用于公开发布 Android 安装包、下载页面和更新清单；应用源码不在此仓库公开。
+本仓库仅公开下载页、安装包和更新清单，源码不在此公开。
 
-下载页：[虚拟定位](https://dlupanrider-crypto.github.io/fake-location-releases/)
+下载页：https://dlupanrider-crypto.github.io/fake-location-releases/
 
-安装包和更新清单将在首次发布时提供。
+更新清单：[update.json](./update.json)
+
+1.0.0 使用新签名，旧版用户请备份后卸载旧版再安装。
